@@ -1,0 +1,65 @@
+.button1 {
+position: relative;
+text-decoration: none;
+color: #ffffff;
+text-align: center;
+font-size: 16px;
+padding: 10px 20px;
+font-family: OpenSansSemibold;
+
+}
+
+.button2 {
+color: #ffffff;
+display: inline-block;
+position:relative;
+padding: 15px 45px;
+border-radius:24px;	
+background-color: #50c3af;
+text-decoration: none;
+font-family: PTSansBold;
+}
+
+.button3 {
+color: #50c3af;
+text-decoration: none;
+font-family: PTSans;
+font-weight: bold;
+}
+
+.button4 {
+color: #f5f5f5;
+padding: 10px 20px;
+border-radius:24px;	
+background-color: #d2d5da;
+display: inline-block;
+font-family: PTSansBold;
+font-size: 16px;
+}
+
+
+.button5 {
+margin-top: 30px;
+color: #ffffff;
+display: inline-block;
+position:relative;
+padding: 10px 20px;
+border-radius:24px;	
+background-color: #50c3af;
+text-decoration: none;
+font-family: PTSansBold;
+}
+
+@media screen and (max-width: 530px){
+
+.button1 {
+font-size: 12px;
+}
+}
+
+@media screen and (max-width: 400px){
+
+.button1 {
+display: block;
+}
+}

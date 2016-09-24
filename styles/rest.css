@@ -1,0 +1,126 @@
+.back1{
+background-color: #eeeeef;
+}
+
+.width1 {
+max-width: 590px;
+margin: 0 auto;
+font-size: 0px;
+}
+
+.padding1 {
+padding-right: 12px;
+padding-left: 12px; }
+
+.back2 {
+background-color: #f5f5f5;
+}
+.back3 {
+background-color: #50c3af;
+}
+
+.inline1 {
+text-align: center;
+display: inline-block;
+width: 33.33%;
+padding: 0 20px;
+font-size: 16px;
+}
+
+.inline2 {
+display: inline-block;
+width: 50%;
+text-align: left;
+font-size: 16px;
+padding: 0 30px;
+}
+
+.inline3 {
+display: inline-block;
+text-align: left;
+width: 33.33%;
+padding: 0 12px;
+font-size: 16px;
+}
+
+.inline4 {
+
+display: inline-block;
+width: 25%;
+margin-left: 10%;
+}
+
+.image1 {
+margin-right: 4%;
+padding-bottom: 7.5%;
+float: left;
+}
+
+.image2 {
+display: inline-block; 
+vertical-align: middle;
+}
+
+.image3 {
+float: right;
+padding-left: 10px;
+padding-right: 10px;
+}
+.image4 {
+
+}
+
+.image5{
+width: 100%;
+}
+
+.button1:hover, .button3:hover {
+color: #FFA500;
+cursor: pointer;
+}
+
+
+.button2:hover, .button5:hover {
+color: #000000;
+background-color: #FFA500;
+cursor: pointer;
+}
+
+@media screen and (max-width: 940px){
+.inline3 {
+width: 33.33%;
+}
+}
+
+@media screen and (max-width: 370px){
+.image3 {
+text-align: center;
+float: none;
+padding-top: 10px;
+}
+}
+
+@media screen and (max-width: 699px){
+.inline1 {
+display: block;
+width: 100%;
+}
+.inline2 {
+display: block;
+width: 100%;
+}
+.inline3 {
+display: block;
+width: 100%;
+}
+
+.image1 {
+float: none;
+width: 100%;
+margin-right: 0;
+}
+}
+
+.padding2 {
+padding-bottom: 70px;
+}

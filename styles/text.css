@@ -1,0 +1,130 @@
+@font-face {
+font-family: PTSans;
+src: url(../founts/PTSans.ttf);
+}
+
+
+@font-face {
+font-family: OpenSansSemibold;
+src: url(../founts/OpenSansSemibold.ttf);
+}
+
+
+@font-face {
+font-family: UbuntuBold;
+src: url(../founts/UbuntuBold.ttf);
+}
+
+@font-face {
+font-family: PTSansBold;
+src: url(../founts/PTSansBold.ttf);
+}
+
+@font-face {
+font-family: Belinda;
+src: url(../founts/Belinda.otf);
+}
+
+.text1 {
+font-family: PTSansBold;
+color: #40474e;
+padding-top: 40px;
+font-size: 16px;
+
+}
+
+.text2 {
+font-family: PTSansBold;
+color: #787b80;
+padding-bottom: 30px;
+padding-top: 50px;
+font-size: 15px;
+}
+
+.text3 {
+font-family: PTSansBold;
+color: #40474e;
+font-size: 16px;
+}
+
+.text4 {
+font-family: PTSansBold;
+color: #40474e;
+font-size: 16px;
+display: inline-block; 
+vertical-align: middle;
+margin-left: 5px;
+}
+
+.text5 {
+font-size: 14px;
+}
+
+.elena {
+font-family: Belinda;
+font-size: 50px;
+}
+
+.have {
+font-family: UbuntuBold;
+margin-top: 75px;
+font-size: 53px;
+}
+
+.just2 {
+font-family: PTSansBold;
+margin-top: 40px;
+}
+
+.menu {
+width: 100%;
+margin-top: 45px;
+font-size: 12px;
+}
+
+.first {
+margin-top: 82px;
+font-size: 14px;
+}
+
+.template {
+font-family: PTSansBold;
+color: #ffffff;
+padding-bottom: 60px;
+}
+
+.templateText {
+color: #fff; 
+font-size: 24px;
+padding: 0 20px 0;
+opacity: 0.6;
+}
+
+.tech {
+font-family: Belinda;
+}
+.promail {
+font-family: PTSansBold;
+}
+.mashable {
+font-family: PTSansBold;
+}
+.atlaspix {
+font-family: OpenSansSemibold;
+}
+
+.elena2 {
+font-size: 14px;
+padding-left: 10px;
+color: #787b80;}
+
+
+
+@media screen and (max-width: 530px){
+
+.have {
+font-size: 30px;
+}
+}
+
+
